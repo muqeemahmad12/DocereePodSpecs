@@ -1,4 +1,4 @@
-# ios-sdk
+# DocereePodSpecs
 
 ## Requirements
 - Use Xcode 11 or higher
